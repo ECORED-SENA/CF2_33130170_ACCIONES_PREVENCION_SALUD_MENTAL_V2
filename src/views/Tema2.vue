@@ -62,6 +62,89 @@
       .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/tema2/img4.svg', alt='', style='width: 380px').m-auto
+    Separador
+    #t_2_3
+    .titulo-segundo.color-acento-contenido
+      h2 2.3 ¿Cuál es el papel de la familia en el desarrollo del amor propio?
+    p.mb-5 La familia está llamada a #[b enseñar a amar], esta es la #[b esencia de las relaciones humanas] y por sencillo que parezca, es la falla más común en las familias.
+    .row.mb-5
+      .col-auto
+        .py-2.px-3.bg-c16
+          p.mb-0 #[b ¿Por qué hay fallas en el sistema familiar?]
+    .row.justify-content-center.mb-5
+      .col-lg-6.col-xl-5.col-xxl-4.mb-4.mb-xxl-0
+        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4.p-xl-5
+              .row.justify-content-center.mb-3
+                .col-auto
+                  .px-3.py-2.bg-white
+                    p.text-center.mb-0 #[b Experiencias propias]
+              p.mb-0 Cuando las personas han tenido historias de violencia intrafamiliar, abuso y maltrato, los patrones e imaginarios que se crean están enmarcados en este tipo de relaciones y por lo general es el modelo que se sigue al construir una nueva familia. Sin embargo, esto no es una condena, lo contrario también sucede, es decir, que se trata de hacer lo opuesto a lo que se vivió.
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img5.svg')})`}")
+      .col-lg-6.col-xl-5.col-xxl-4.mb-4.mb-xxl-0
+        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4.p-xl-5
+              .row.justify-content-center.mb-3
+                .col-auto
+                  .px-3.py-2.bg-white
+                    p.text-center.mb-0 #[b Entorno violento - historia como sociedad]
+              p.mb-0 Colombia se ha vivido marcada por una historia de violencia social, que ha enseñado a solucionar los conflictos, vía eliminación del otro. Se han naturalizado estas prácticas y se asumen como normales en muchos entornos. Pelear, tratar mal a las personas, ser agresivos, decir malas palabras, son actitudes que no se cuestionan.
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img6.svg')})`}")
+      .col-lg-6.col-xl-5.col-xxl-4.mb-4.mb-xxl-0
+        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4.p-xl-5
+              .row.justify-content-center.mb-3
+                .col-auto
+                  .px-3.py-2.bg-white
+                    p.text-center.mb-0 #[b Medios de comunicación]
+              p.mb-0 Ejercen una influencia directa sobre la construcción de estereotipos, forma de hacer y ver las cosas. Noticias de violencia y abuso a diario, novelas que recrean formas de relación de pareja basadas en el desequilibrio y las marcadas relaciones de poder.
+              br
+              br
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img7.svg')})`}")
+    .row.mb-5
+      .col-auto
+        .py-2.px-3.bg-c16
+          p.mb-0 #[b ¿Qué se requiere de la familia para construir amor propio?]
+    .row.bg-c10.mb-5
+      .col-12
+        .p-5
+          .tarjeta.tarjeta--gris1
+            .p-4
+              SlyderA(tipo="b")(data-aos="zoom-in")
+                .row.justify-content-center.align-items-center.my-lg-4
+                  .col-lg-7.mb-4.mb-lg-0
+                    p #[b Necesidades básicas de crecimiento]
+                    p.mb-0 Cada individuo, especialmente los niños, requiere cuidados esenciales como alimentación, atención en la enfermedad y protección. Los niños necesitan la presencia de padres que los cuiden, se preocupen por ellos y les enseñen a alimentarse, a cuidar y respetar el cuerpo. Esto se aprende fundamentalmente en la familia.
+                  .col-lg-4
+                    figure
+                      img(src="@/assets/curso/tema2/img1.png", alt="", style="width: 400px").m-auto
+                .row.justify-content-center.align-items-center.my-lg-4
+                  .col-lg-7.mb-4.mb-lg-0
+                    p #[b Aprendizaje del amor y vínculos afectivos]
+                    p.mb-0 El aprendizaje del amor se realiza a través del apego y vínculos afectivos y efectivos. La familia debe ser un modelo que fomente el amor, siendo este el propósito de su existencia. Se aprende a amar mediante el ejemplo de prácticas de buen trato, respeto, abrazos, palabras amables, sonrisas, protección, establecimiento de límites, diálogo para solucionar problemas, escucha y orientación.
+                  .col-lg-4
+                    figure
+                      img(src="@/assets/curso/tema2/img2.png", alt="", style="width: 400px").m-auto
+                .row.justify-content-center.align-items-center.my-lg-4
+                  .col-lg-7.mb-4.mb-lg-0
+                    p #[b Responsabilidad familiar]
+                    p.mb-0 Comprender la responsabilidad que cada acto tiene frente a otros miembros de la familia es crucial. Este aspecto es vital para el desarrollo del amor propio y el respeto mutuo dentro del entorno familiar. Si cada integrante fuera consciente del impacto de sus acciones, las conductas violentas o de maltrato serían inexistentes.
+                  .col-lg-4
+                    figure
+                      img(src="@/assets/curso/tema2/img3.png", alt="", style="width: 400px").m-auto
+    p.mb-5 #[b Algunos principios del buen trato son:]
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-3
+          p.mb-0 #[b Figura 1.] Principios del buen trato
+        figure
+          img(src='@/assets/curso/tema2/img8.svg', alt='', style='width: 1200px').m-auto
 
 </template>
 
