@@ -71,7 +71,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Victima.
+                        p.mb-0 Víctima.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema1/img5.png', alt='', style='width: 400px').m-auto
@@ -101,7 +101,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 #[b Policía Nacional local:] recepción de denuncias y protección inmediata, remisión del caso a Fiscalía y Comisaría de Familia.
+                        p.mb-0 #[b Policía Nacional local:] recepción de denuncias y protección inmediata, remisión del caso a fiscalía y comisaría de familia.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -128,7 +128,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Comisaria de Familia local.
+                        p.mb-0 Comisaría de familia local.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -169,7 +169,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Línea de la Fiscalía desde celular a la línea 122 o desde teléfono fijo al 018000919748.
+                        p.mb-0 Línea de la fiscalía desde celular a la línea 122 o desde teléfono fijo al 018000919748.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -189,7 +189,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Es importante que consulte los números de contacto de la Comisaría de Familia más cercana, especialmente si es testigo o víctima de violencia intrafamiliar.
+                        p.mb-0 Es importante que consulte los números de contacto de la comisaría de familia más cercana, especialmente si es testigo o víctima de violencia intrafamiliar.
                   .col-lg-4
                     figure
                       img(src='@/assets/curso/tema1/img10.png', alt='', style='width: 400px').m-auto
@@ -272,7 +272,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Victima.
+                        p.mb-0 Víctima.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema1/img12.png', alt='', style='width: 400px').m-auto
@@ -283,7 +283,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Comisaría de Familia local.
+                        p.mb-0 Comisaría de familia local.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -326,7 +326,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 #[b Comisaría de Familia local:] recepción de denuncias, protección inmediata, remisión a medicina legal para exámenes y periciales, atención psicosocial, remisión del caso a Fiscalía.
+                        p.mb-0 #[b Comisaría de Familia local:] recepción de denuncias, protección inmediata, remisión a medicina legal para exámenes y periciales, atención psicosocial, remisión del caso a fiscalía.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -346,7 +346,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 #[b Casas de justicia:] recepción de denuncias, protección inmediata, remisión a medicina legal para exámenes y periciales, atención psicosocial, remisión del caso a Fiscalía.
+                        p.mb-0 #[b Casas de justicia:] recepción de denuncias, protección inmediata, remisión a medicina legal para exámenes y periciales, atención psicosocial, remisión del caso a fiscalía.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -392,7 +392,7 @@
                 li.d-flex
                   i.fas.fa-circle-check
                   |
-                  p.mb-0 Línea de la Fiscalía desde celular a la línea 122 o desde teléfono fijo al 018000919748.
+                  p.mb-0 Línea de la fiscalía desde celular a la línea 122 o desde teléfono fijo al 018000919748.
                 li.d-flex
                   i.fas.fa-circle-check
                   |
@@ -515,7 +515,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Victima.
+                        p.mb-0 Víctima.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema1/img19.png', alt='', style='width: 400px').m-auto
@@ -569,15 +569,15 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 #[b Comisaría de Familia local:] recepción de denuncias, protección inmediata, remisión a medicina legal para exámenes y periciales, atención psicosocial, remisión del caso a Fiscalía.
+                        p.mb-0 #[b Comisaría de Familia local:] recepción de denuncias, protección inmediata, remisión a medicina legal para exámenes y periciales, atención psicosocial, remisión del caso a fiscalía.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 #[b Inspección de Policía local:] recepción de denuncias, protección inmediata, remisión a medicina legal para exámenes y periciales, atención psicosocial, remisión del caso a Fiscalía.
+                        p.mb-0 #[b Inspección de Policía local:] recepción de denuncias, protección inmediata, remisión a medicina legal para exámenes y periciales, atención psicosocial, remisión del caso a fiscalía.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 #[b Policía Nacional local:] recepción de denuncias y protección inmediata, remisión a medicina legal para exámenes y periciales, remisión del caso a fiscalía y Comisaría de Familia.
+                        p.mb-0 #[b Policía Nacional local:] recepción de denuncias y protección inmediata, remisión a medicina legal para exámenes y periciales, remisión del caso a fiscalía y comisaría de familia.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -656,7 +656,7 @@
                 li.d-flex
                   i.fas.fa-circle-check
                   |
-                  p.mb-0 Es importante que consulte los números de contacto de la Comisaría de Familia más cercana.
+                  p.mb-0 Es importante que consulte los números de contacto de la comisaría de familia más cercana.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema1/img22.png', alt='', style='width: 400px').m-auto

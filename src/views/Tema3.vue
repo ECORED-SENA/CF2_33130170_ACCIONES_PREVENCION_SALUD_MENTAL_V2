@@ -12,7 +12,7 @@
           .row
             .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
               p La política pública en salud mental agrupa acciones intersectoriales orientadas a promover el desarrollo de capacidades individuales, colectivas y poblacionales. Estas acciones buscan que los sujetos reconozcan sus derechos y puedan vivir una salud mental que les permita afrontar los desafíos de la vida, trabajar, establecer relaciones significativas y contribuir a una comunidad basada en relaciones equitativas, dignas y justas para todos.
-              p El estrés es una parte normal de la vida y puede ser útil en situaciones de emergencia, cuando no se maneja adecuadamente, puede tener efectos negativos graves en la salud. Aprender a reconocer los signos de estrés y utilizar estrategias de manejo, como la relajación, ejercicio físico, o apoyo emocional, es crucial para mantener un bienestar óptimo.
+              p El estrés es una parte normal de la vida y puede ser útil en situaciones de emergencia; cuando no se maneja adecuadamente, puede tener efectos negativos graves en la salud. Aprender a reconocer los signos de estrés y utilizar estrategias de manejo, como la relajación, ejercicio físico o apoyo emocional, es crucial para mantener un bienestar óptimo.
               figure
                 img(src='@/assets/curso/tema3/img1.svg', alt='', style='width: 90px')
             .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
@@ -53,7 +53,7 @@
               SlyderA(tipo="b")(data-aos="zoom-in")
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-lg-7.mb-4.mb-lg-0
-                    p #[b Fortalecimiento de entornos resilientes, saludables y protectores que promuevan estilos de vida saludables]
+                    p #[b Fortalecimiento de entornos resilientes, saludables y protectores que promuevan estilos de vida saludables.]
                     p #[b a. Fortalecimiento de redes de apoyo:] se refiere a la creación de vínculos estrechos y seguros entre actores (instituciones, organizaciones, familias, personas) para compartir recursos y generar sinergias en beneficio de un objetivo común. 
                     p #[b b. Articulación intersectorial en salud:] implica la colaboración activa de sectores como educación, trabajo, vivienda y cultura para mejorar el bienestar y la calidad de vida de la población.
                   .col-lg-4
@@ -112,7 +112,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 #[b Manejo del estrés:] Identificar y contrarrestar el estrés de forma saludable.
+                        p.mb-0 #[b Manejo del estrés:] identificar y contrarrestar el estrés de forma saludable.
                   .col-lg-4
                     figure
                       img(src="@/assets/curso/tema3/img5.png", alt="", style="width: 400px").m-auto
@@ -131,7 +131,7 @@
       .col-auto
         .py-2.px-3.bg-c16
           p.mb-0 #[b Plan de acción en familia]
-    p.mb-5(data-aos="fade-down") Lo siguiente es accionar, #[b (llevar a la práctica)] mediante un plan que oriente, por ello la invitación para desarrollar el #[b auto diagnóstico], que permitirá identificar las condiciones propias de la vida, la individualidad, el entorno familiar y social, y que puede estar afectando la salud y calidad de vida, para orientar este autodiagnóstico, tenemos una serie de preguntas que responder, la invitación para que escriba en un texto y guarde sus respuestas:
+    p.mb-5(data-aos="fade-down") Lo siguiente es accionar; #[b (llevar a la práctica)] mediante un plan que oriente, por ello la invitación para desarrollar el #[b autodiagnóstico], que permitirá identificar las condiciones propias de la vida, la individualidad, el entorno familiar y social, y que puede estar afectando la salud y calidad de vida. Para orientar este autodiagnóstico, tenemos una serie de preguntas que responder, la invitación para que escriba en un texto y guarde sus respuestas:
     .row.justify-content-center.mb-5
       .col-lg-10
         .p-4.bg-c18(data-aos="fade-left")
@@ -239,7 +239,7 @@
                 img(src='@/assets/curso/tema3/img5.svg', alt='', style='width: 80px').m-auto
             .col-md
               p.txt-c2 #[b Para ello tendremos en cuenta que:]
-              p.text-white.mb-0 Un objetivo es una acción realizable y medible, que debe redactar con un verbo en infinitivo. Deben responder a lo que se quiere cambiar, mejorar, dejar sentir en los diferentes aspectos de la vida.
+              p.text-white.mb-0 Un objetivo es una acción realizable y medible, que debe redactarse con un verbo en infinitivo. Deben responder a lo que se quiere cambiar, mejorar, dejar sentir en los diferentes aspectos de la vida.
     p.mb-5(data-aos="fade-right") #[b Algunas orientaciones:]
     .row.bg-c22
       .col-12
@@ -259,7 +259,7 @@
                           li.d-flex
                             i.fas.fa-circle-check
                             |
-                            p.mb-0 Patrones de crianza: forma que cada familia levanta a los hijos según valores y conceptos propios.
+                            p.mb-0 Patrones de crianza: forma en que cada familia levanta a los hijos según valores y conceptos propios.
                           li.d-flex
                             i.fas.fa-circle-check
                             |
@@ -281,7 +281,7 @@
                             |
                             p.mb-0 Roles y tareas.
           p.mb-4(data-aos="fade-right") #[b Acciones por seguir:]
-          p.mb-5(data-aos="fade-right") Con esta actividad identificara todas aquellas acciones que permiten llegar para lograr objetivos propuestos.
+          p.mb-5(data-aos="fade-right") Con esta actividad identificará todas aquellas acciones que permiten llegar para lograr objetivos propuestos.
           .row.justify-content-center.mb-4(data-aos="fade-down")
             .col-10.col-md-6.col-lg-2.mb-4.mb-lg-0
               .p-3.bg-c21.h-100

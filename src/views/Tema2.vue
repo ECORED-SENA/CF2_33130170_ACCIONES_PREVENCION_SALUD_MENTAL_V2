@@ -32,7 +32,7 @@
                     .col-12
                       .p-4
                         p #[b ¿Qué determina el camino que una persona seguirá?]
-                        p.mb-0 Depende exclusivamente de la persona. Aunque ciertos riesgos aumentan la probabilidad de desarrollar trastornos mentales, también existe la posibilidad real de protegerse a sí mismo y a tros de estos peligros.
+                        p.mb-0 Depende exclusivamente de la persona. Aunque ciertos riesgos aumentan la probabilidad de desarrollar trastornos mentales, también existe la posibilidad real de protegerse a sí mismo y a otros de estos peligros.
           Separador
           #t_2_2
           .titulo-segundo.color-acento-contenido
@@ -66,7 +66,7 @@
     #t_2_3
     .titulo-segundo.color-acento-contenido
       h2 2.3 ¿Cuál es el papel de la familia en el desarrollo del amor propio?
-    p.mb-5(data-aos="fade-down") La familia está llamada a #[b enseñar a amar], esta es la #[b esencia de las relaciones humanas] y por sencillo que parezca, es la falla más común en las familias.
+    p.mb-5(data-aos="fade-down") La familia está llamada a #[b enseñar a amar]; esta es la #[b esencia de las relaciones humanas] y, por sencillo que parezca, es la falla más común en las familias.
     .row.mb-5(data-aos="fade-right")
       .col-auto
         .py-2.px-3.bg-c16
@@ -213,7 +213,7 @@
         .row.h-100.align-items-center
           .col-12
             .p-4
-              p.mb-0 En primera instancia debemos cuidar del cuerpo, como nuestro territorio más cercano, y esto nos lleva a desarrollar acciones y comportamientos de cuidado del cuerpo de los demás. Pero igualmente tenemos que cuidar la mente, que significa equilibrar nuestras pasiones para aplicarlas al desarrollo de un proyecto de vida coherente con nuestra condición humana. Igualmente cuidamos el espíritu, esa dimensión de nuestra vida que nos permite sentirnos parte de realidades abstractas como la humanidad y el universo, pero que en lo cotidiano se traduce en la vivencia de una ética autónoma. Finalmente, cuidamos el intelecto, mediante una actitud que nos permite desarrollar nuestros mejores talentos para ponerlos al servicio de nosotros mismos, de nuestra familia, nuestra comunidad, con una actitud solidaria y altruista. (Alcaldía Mayor de Bogotá, 2013. Orientaciones para la acción en cuidado y Autocuidado)
+              p.mb-0 En primera instancia debemos cuidar del cuerpo, como nuestro territorio más cercano, y esto nos lleva a desarrollar acciones y comportamientos de cuidado del cuerpo de los demás. Pero igualmente tenemos que cuidar la mente, que significa equilibrar nuestras pasiones para aplicarlas al desarrollo de un proyecto de vida coherente con nuestra condición humana. Igualmente cuidamos el espíritu, esa dimensión de nuestra vida que nos permite sentirnos parte de realidades abstractas como la humanidad y el universo, pero que en lo cotidiano se traduce en la vivencia de una ética autónoma. Finalmente, cuidamos el intelecto, mediante una actitud que nos permite desarrollar nuestros mejores talentos para ponerlos al servicio de nosotros mismos, de nuestra familia, nuestra comunidad, con una actitud solidaria y altruista. (Alcaldía Mayor de Bogotá, 2013. Orientaciones para la acción en cuidado y autocuidado)
     p.mb-5(data-aos="fade-right") De esta forma, las prácticas de cuidado y autocuidado permitirán mantener una salud mental sana. Solamente quien cuida de sí mismo de forma responsable puede cuidar de otros, del entorno cercano y del medioambiente.
     .row.justify-content-center
       .col-lg-8(data-aos="fade-left")
