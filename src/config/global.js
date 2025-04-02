@@ -99,17 +99,25 @@ export default {
   },
   complementario: [
     {
-      tema: 'Casos de violencia y salud mental',
+      tema: 'Violencia contra la mujer por razón de género',
       referencia:
-        'World Health Organization (WHO) (2016). OMS: Fortalecer la función del sistema de salud para abordar la violencia contra las mujeres. YouTube  ',
+        'World Health Organization (WHO). (2016). <i>OMS: Fortalecer la función del sistema de salud para abordar la violencia contra las mujeres</i> (video). YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=NAlY-1KI6ts&ab_channel=WorldHealthOrganization%28WHO%29',
     },
     {
+      tema:
+        'Ideación/ conducta suicida, evento en crisis y trastornos mentales',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023). <i>Rutas de atención</i> (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=pV3a1wOOFYI&t=10s',
+    },
+    {
       tema: 'Acciones de prevención en salud mental',
       referencia:
-        'Comunicaciones Asmet (2021). PREVENCIÓN DE TRASTORNOS Y PROBLEMAS DE LA SALUD MENTAL YouTube  ',
+        'Comunicaciones Asmet. (2021). <i>PREVENCIÓN DE TRASTORNOS Y PROBLEMAS DE LA SALUD MENTAL</i> (video). YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=KSEwfbGanDI&ab_channel=ComunicacionesAsmet',
@@ -117,7 +125,7 @@ export default {
     {
       tema: 'Manejo de estrés y prevención de consumo',
       referencia:
-        'Julio Rodríguez (2011). La receta para el estrés ( Parte 1 ). YouTube',
+        'Julio Rodríguez (2011). <i>La receta para el estrés (Parte 1)</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=fxO0Ggfty4o',
     },
@@ -134,9 +142,29 @@ export default {
         'prácticas individuales realizadas por la persona para preservar la salud y el bienestar general.',
     },
     {
+      termino: 'Casa de justicia',
+      significado:
+        'organismos del estado encargados de impartir justicia a nivel local, de tal forma que se garantice el acceso a la justicia de manera efectiva a la comunidad.',
+    },
+    {
+      termino: 'Comisaría de Familia',
+      significado:
+        'organismo estatal encargado de prevenir, garantizar y restablecer los derechos de los miembros de un grupo familiar o alguno de sus integrantes.',
+    },
+    {
+      termino: 'Denuncia',
+      significado:
+        'se refiere a la acción de declarar, notificar o avisar que algo no está bien, que se está cometiendo un delito o alguien está en riesgo.',
+    },
+    {
       termino: 'Derechos de la víctima',
       significado:
         'derechos que asisten a las víctimas de un delito o abuso, como el derecho a ser escuchado, a recibir atención digna y protección legal.',
+    },
+    {
+      termino: 'Líneas de emergencia',
+      significado:
+        'línea telefónica dispuesta para la comunidad a través de la cual pueden denunciar y buscar orientación para el acceso a servicios específicos.',
     },
     {
       termino: 'Maltrato infantil',
@@ -147,6 +175,16 @@ export default {
       termino: 'Prevención',
       significado:
         'estrategias y actividades diseñadas para prevenir la aparición de enfermedades y situaciones adversas antes de que ocurran.',
+    },
+    {
+      termino: 'Red hospitalaria',
+      significado:
+        'conjunto de instituciones de diferentes niveles de atención, dispuestas para prestar los servicios de salud a la comunidad.',
+    },
+    {
+      termino: 'Ruta de atención',
+      significado:
+        'herramientas dispuestas por el estado, que indican qué hacer para acceder a los servicios sociales, de atención en caso de violencias o en salud.',
     },
     {
       termino: 'Salud mental',
@@ -167,25 +205,31 @@ export default {
   referencias: [
     {
       referencia:
-        'Gutiérrez, M. Familia Buen Trato y Corresponsabilidad. Bogotá (2015). Asociación Afecto contra el maltrato Infantil. Presentación PPT.',
+        'Gutiérrez, M. Familia Buen Trato y Corresponsabilidad. Bogotá (2015). <i>Asociación Afecto contra el maltrato Infantil</i>. Presentación PPT.',
     },
     {
       referencia:
-        'Instituto Nacional de Medicina Legal y Ciencias Forenses. (2015). Violencia intrafamiliar (primera parte).',
+        'Instituto Nacional de Medicina Legal y Ciencias Forenses. (2015). <i>Violencia intrafamiliar (primera parte)</i>. ',
       link:
         'https://www.medicinalegal.gov.co/documents/20143/49523/Violencia+intrafamiliar+primera+parte.pdf',
     },
     {
       referencia:
-        'Organización Mundial de la Salud. (2002). Informe mundial sobre la violencia y la salud. Recuperado de',
+        'Ministerio de Salud y Protección Social. (2018). <i>Política Nacional de Salud Mental</i>. Ministerio de Salud y Protección Social. ',
       link:
-        'https://iris.who.int/bitstream/handle/10665/78545/924159215X_spa.pdf',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/politica-nacional-salud-mental.pdf',
     },
     {
       referencia:
-        'Alcaldía Mayor de Bogotá, Secretaría de Educación Distrital. (2014). Orientaciones para la acción en Cuidado y Autocuidado - Educación para la Ciudadanía y la Convivencia. ',
+        'Ministerio de Salud y Protección Social. (2018). <i>Resolución 3280 de 2018, por la cual se adoptan los lineamientos técnicos y operativos de la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y la Ruta Integral de Atención en Salud para la Población Materno Perinatal y se establecen las directrices para su operación</i>. ',
       link:
-        'http://www.redacademica.edu.co/archivos/redacademica/proyectos/pecc/centro_documentacion/caja_de_herramientas/serie_1_orientaciones/09_orientaciones_para_la_accion_en_cuidado_y_autocuidado.pdf',
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%203280%20de%2020183280.pdf',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Salud. (2002). <i>Informe mundial sobre la violencia y la salud</i>. Recuperado de: ',
+      link:
+        'https://iris.who.int/bitstream/handle/10665/78545/924159215X_spa.pdf',
     },
   ],
   creditos: [
@@ -230,14 +274,8 @@ export default {
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Edward Leonardo Pico Cabra',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro:
-            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Edgar Mauricio Cortés García',
-          cargo: 'Actividad Didáctica',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
