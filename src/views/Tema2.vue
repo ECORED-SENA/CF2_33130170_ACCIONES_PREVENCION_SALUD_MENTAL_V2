@@ -144,7 +144,7 @@
         .titulo-sexto.color-acento-contenido.mb-3
           p.mb-0 #[b Figura 1.] Principios del buen trato
         figure
-          img(src='@/assets/curso/tema2/img8.svg', alt='', style='width: 1200px').m-auto
+          img(src='@/assets/curso/tema2/img8.svg', alt='La figura presenta un diagrama con forma de pentágono que representa los Principios del buen trato. En cada una de las cinco esquinas del pentágono se destaca un principio: Reconocimiento, empatía, comunicación efectiva y afectiva, interacción igualitaria y negociación.', style='width: 1200px').m-auto
     Separador
     #t_2_4
     .titulo-segundo.color-acento-contenido
@@ -220,9 +220,9 @@
         .titulo-sexto.color-acento-contenido.mb-3
           p.mb-0 #[b Figura 2.] Hábitos de vida saludables
         figure.d-none.d-lg-block
-          img(src='@/assets/curso/tema2/img11.svg', alt='', style='width: 800px').m-auto
+          img(src='@/assets/curso/tema2/img11.svg', alt='El diagrama Hábitos de vida saludables presenta cómo el amor propio, apoyado por la familia y una ética del cuidado que incluye el bienestar físico, mental, espiritual e intelectual, es fundamental para la salud mental. Resalta la necesidad de respeto y responsabilidad personal en la creación de un estilo de vida saludable.', style='width: 800px').m-auto
         figure.d-block.d-lg-none
-          img(src='@/assets/curso/tema2/img11m.svg', alt='', style='width: 500px').m-auto
+          img(src='@/assets/curso/tema2/img11m.svg', alt='El diagrama Hábitos de vida saludables presenta cómo el amor propio, apoyado por la familia y una ética del cuidado que incluye el bienestar físico, mental, espiritual e intelectual, es fundamental para la salud mental. Resalta la necesidad de respeto y responsabilidad personal en la creación de un estilo de vida saludable.', style='width: 500px').m-auto
 
 </template>
 

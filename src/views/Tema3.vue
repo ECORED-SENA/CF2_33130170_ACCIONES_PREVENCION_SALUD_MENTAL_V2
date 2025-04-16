@@ -165,7 +165,7 @@
                   .col
                     .row.h-100.align-items-center
                       .col-12
-                        p.mb-0 ¿Qué pienso de mi?
+                        p.mb-0 ¿Qué pienso de mí?
     .row.mb-5(data-aos="fade-right")
       .col-auto
         .py-2.px-3.bg-c16
@@ -185,7 +185,7 @@
                 .row.align-items-center
                   .col-12
                     .p-3.bg-c19
-                      p.text-center.mb-0 ¿Soy seguro de mi mismo?
+                      p.text-center.mb-0 ¿Soy seguro de mí mismo?
             .col-md-6.col-lg-4
               .p-3.bg-c19
                 .row.align-items-center
@@ -206,25 +206,25 @@
                 th Hábitos
             tbody
               tr.bg-c20
-                td ¿Cómo es mi familia?
-                td ¿Cómo son mis amigos?
-                td ¿Soy fumador? ¿Por qué lo hago?
+                td.txt-p1 ¿Cómo es mi familia?
+                td.txt-p1 ¿Cómo son mis amigos?
+                td.txt-p1 ¿Soy fumador? ¿Por qué lo hago?
               tr
-                td ¿Cómo son las relaciones entre los miembros de mi familia?
-                td ¿Qué tan importante es la vida social para mí?
-                td ¿Consumo alcohol? ¿Por qué lo hago?
+                td.txt-p1 ¿Cómo son las relaciones entre los miembros de mi familia?
+                td.txt-p1 ¿Qué tan importante es la vida social para mí?
+                td.txt-p1 ¿Consumo alcohol? ¿Por qué lo hago?
               tr.bg-c20
-                td ¿He sido víctima de maltrato en mi familia?
-                td ¿Cuál es el criterio con el que elijo mis amigos?
-                td ¿Consumo drogas? Cuáles, ¿por qué?
+                td.txt-p1 ¿He sido víctima de maltrato en mi familia?
+                td.txt-p1 ¿Cuál es el criterio con el que elijo mis amigos?
+                td.txt-p1 ¿Consumo drogas? Cuáles, ¿por qué?
               tr
-                td ¿Soy una persona maltratante?
-                td ¿En qué circunstancias me siento presionado por otros y cómo lo manejo?
-                td ¿Cuál es mi rutina de alimentación?
+                td.txt-p1 ¿Soy una persona maltratante?
+                td.txt-p1 ¿En qué circunstancias me siento presionado por otros y cómo lo manejo?
+                td.txt-p1 ¿Cuál es mi rutina de alimentación?
               tr.bg-c20
-                td ¿Cómo demuestro el afecto en mi familia?
-                td ¿He hecho cosas que debo ocultar por mis amigos?
-                td ¿Realizo ejercicio físico, con qué frecuencia?
+                td.txt-p1 ¿Cómo demuestro el afecto en mi familia?
+                td.txt-p1 ¿He hecho cosas que debo ocultar por mis amigos?
+                td.txt-p1 ¿Realizo ejercicio físico, con qué frecuencia?
     Separador
     #t_3_3
     .titulo-segundo.color-acento-contenido
@@ -319,7 +319,7 @@
           p.mb-0 La teoría de la inteligencia única ha sido cuestionada por Howard Gardner, quien plantea que los seres humanos podemos tener diferentes inteligencias: #[b lingüística, lógico - matemática, espacial, musical, corporal, intrapersonal y naturalista].
       .col-lg-8.mb-4
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-          p.mb-0 #[b Figura 3.] eoría de las inteligencias múltiples
+          p.mb-0 #[b Figura 3.] Teoría de las inteligencias múltiples
         figure(data-aos="fade-left")
           img(src='@/assets/curso/tema3/img11.svg', alt='El diagrama representa la Teoría de las inteligencias múltiples y clasifica ocho tipos de inteligencias distintas. Estas inteligencias son: corporal, intrapersonal, lingüística, lógico-matemática, naturalista, visual, espacial, y musical.', style='width: 700px').m-auto
     p.mb-0(data-aos="fade-right") En el marco de la preservación de la salud mental, saber cuáles son nuestras habilidades más fuertes, brindar herramientas para fortalecer la seguridad en sí mismo, pero también ayudar a canalizar acciones frente al manejo del tiempo libre. De esta forma, si mi inteligencia es artística, buscaré opciones para fortalecer esta capacidad y sentirme bueno en ello.
