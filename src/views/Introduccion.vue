@@ -20,7 +20,7 @@
                     figure
                       img(src='@/assets/curso/intro/img1.svg', alt='', style='width: 140px').m-auto
             p.mb-3(data-aos="fade-right") No importa si no eres la víctima; si observas el hecho, la corresponsabilidad implica que, como testigo, tienes el deber de denunciar activamente y poner en marcha las rutas de atención disponibles. Esto es crucial para proteger a la persona afectada y garantizar su acceso a la ayuda que necesita. Aunque no seas el principal afectado, tu acción puede ser fundamental para una intervención rápida y eficaz.
-            p.mb-4(data-aos="fade-right") #[b En este componente se profundiza en:]
+            p.mb-4(data-aos="fade-right") En este componente se profundiza en:
             .row
               .col-12.mb-2(data-aos="fade-right")
                 .p-4.bg-c4

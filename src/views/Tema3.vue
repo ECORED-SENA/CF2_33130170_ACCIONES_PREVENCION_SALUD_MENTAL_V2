@@ -180,18 +180,12 @@
                   .col-12
                     .p-3.bg-c19
                       p.text-center.mb-0 ¿Qué debo mejorar?
-            .col-md-6.col-lg-4.mb-4.mb-lg-0
-              .p-3.bg-c19
-                .row.align-items-center
-                  .col-12
-                    .p-3.bg-c19
-                      p.text-center.mb-0 ¿Soy seguro de mí mismo?
             .col-md-6.col-lg-4
               .p-3.bg-c19
                 .row.align-items-center
                   .col-12
                     .p-3.bg-c19
-                      p.text-center.mb-0 ¿Qué debo mejorar?
+                      p.text-center.mb-0 ¿Soy seguro de mí mismo?
     p.mb-5(data-aos="fade-right") #[b Otras preguntas:]
     .row.justify-content-center
       .col-lg-10
@@ -259,7 +253,7 @@
                           li.d-flex
                             i.fas.fa-circle-check
                             |
-                            p.mb-0 Patrones de crianza: forma en que cada familia levanta a los hijos según valores y conceptos propios.
+                            p.mb-0 #[b Patrones de crianza:] forma en que cada familia levanta a los hijos según valores y conceptos propios.
                           li.d-flex
                             i.fas.fa-circle-check
                             |
@@ -307,7 +301,7 @@
             .col-lg-8
               .p-4.bg-c17
                 p.text-white Tenga en cuenta que estas acciones deben llevar a conseguir lo que se planteó en los objetivos.
-                p.text-white.mb-0 #[b Ejemplo:] si un objetivo fue fortalecer el amor propio, para sentirse seguro, entonces debe plantear acciones para mejorar la estima.
+                p.text-white.mb-0 #[b Ejemplo:] si un objetivo fue fortalecer el amor propio, para sentirse seguro, entonces debe plantear acciones para mejorar la autoestima.
     Separador
     #t_3_4
     .titulo-segundo.color-acento-contenido

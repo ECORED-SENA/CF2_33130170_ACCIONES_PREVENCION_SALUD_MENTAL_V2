@@ -109,11 +109,11 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Centro de Atención Penal Integral a Víctimas (CAPIV).
+                        p.mb-0 #[b Centro de Atención Penal Integral a Víctimas (CAPIV):] son centros de atención que brindan asistencia en el proceso judicial y psicológico, así como orientaciones sobre derechos y recursos 5 Grupo de Ejecución de la Formación Virtual disponibles para las víctimas. Operan las 24 horas del día, los 7 días de la semana.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Unidades de Reacción Inmediata (URI).
+                        p.mb-0 #[b Unidades de Reacción Inmediata (URI):] son centros de atención que facilitan el acceso a la justicia, especialmente en casos urgentes que requieren una respuesta rápida de las autoridades. Operan las 24 horas del día, los 7 días de la semana, y su objetivo es contrarrestar la criminalidad a través de la acción judicial inmediata.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -152,7 +152,7 @@
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema1/img8.png', alt='', style='width: 400px').m-auto
-    p.mb-5(data-aos="fade-right") #[b Ante casos de violencia, se deben tomar las siguientes acciones:]
+    p.mb-5(data-aos="fade-right") Ante casos de violencia, se deben tomar las siguientes acciones:
     .row.bg-c11
       .col-12
         .px-5
@@ -177,7 +177,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Línea 106 Secretaría Distrital de Salud.
+                        p.mb-0 Línea 195 Secretaría Distrital de Salud.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -207,7 +207,11 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 CAMI (Centro de Atención Médica Inmediata). UPA (Unidad Primaria de Atención).
+                        p.mb-0 CAMI (Centro de Atención Médica Inmediata).
+                      li.d-flex
+                        i.fas.fa-circle-check
+                        |
+                        p.mb-0 UPA (Unidad Primaria de Atención).
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -338,11 +342,11 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Centro de Atención Penal Integral a Víctimas (CAPIV).
+                        p.mb-0 #[b Centro de Atención Penal Integral a Víctimas (CAPIV):] son centros de atención que brindan asistencia en el proceso judicial y 8 Grupo de Ejecución de la Formación Virtual psicológico, así como orientaciones sobre derechos y recursos disponibles para las víctimas. Operan las 24 horas del día, los 7 días de la semana.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Centro de Atención a Víctimas de abuso sexual - CAIVAS.
+                        p.mb-0 #[b Centro de Atención a Víctimas de abuso sexual - CAIVAS:] son centros de atención e investigación integral a las víctimas de delitos sexuales, que existen en algunos municipios del país y hacen parte de la Fiscalía, y donde también se recibe asesoría y tratamiento psicológico.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -378,7 +382,7 @@
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema1/img14.png', alt='', style='width: 400px').m-auto
-    p.mb-5(data-aos="fade-right") #[b Ante casos de maltrato infantil se deben tomar las siguientes acciones:]
+    p.mb-5(data-aos="fade-right") Ante casos de maltrato infantil se deben tomar las siguientes acciones:
     .row
       .col-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")(data-aos="zoom-in")
@@ -408,7 +412,7 @@
                 li.d-flex
                   i.fas.fa-circle-check
                   |
-                  p.mb-0 Línea 106 Secretaría Distrital de Salud.
+                  p.mb-0 Línea 195 Secretaría Distrital de Salud.
                 li.d-flex
                   i.fas.fa-circle-check
                   |
@@ -425,10 +429,6 @@
                   i.fas.fa-circle-check
                   |
                   p.mb-0 Es importante que consulte los números de contacto de la Comisaría de Familia más cercana, especialmente si es testigo o víctima de maltrato infantil o abuso sexual.
-                li.d-flex
-                  i.fas.fa-circle-check
-                  |
-                  p.mb-0 Atención medica integral.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema1/img15.png', alt='', style='width: 400px').m-auto
@@ -446,7 +446,11 @@
                 li.d-flex
                   i.fas.fa-circle-check
                   |
-                  p.mb-0 CAMI (Centro de Atención Médica Inmediata). UPA (Unidad Primaria de Atención).
+                  p.mb-0 CAMI (Centro de Atención Médica Inmediata).
+                li.d-flex
+                  i.fas.fa-circle-check
+                  |
+                  p.mb-0 UPA (Unidad Primaria de Atención).
                 li.d-flex
                   i.fas.fa-circle-check
                   |
@@ -471,7 +475,7 @@
                 .col-md-7.col-lg.bg-c14
                   .row.h-100.align-items-center
                     .col-12
-                      .p-5
+                      .p-4
                         p.fs-5.mb-4 #[b Una mujer que sufre maltrato por primera vez y lo tolera, se arriesga a caer en un ciclo de violencia que amenaza su vida e integridad.]
                         figure
                           img(src='@/assets/curso/tema1/img2.svg', alt='', style='width: 120px')
@@ -585,15 +589,15 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Centro de Atención Penal Integral a Víctimas (CAPIV).
+                        p.mb-0 #[b Centro de Atención Penal Integral a Víctimas (CAPIV):] son centros de atención que brindan asistencia en el proceso judicial y psicológico, así como orientaciones sobre derechos y recursos 12 Grupo de Ejecución de la Formación Virtual disponibles para las víctimas. Operan las 24 horas del día, los 7 días de la semana.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Unidades de Reacción Inmediata (URI).
+                        p.mb-0 #[b Unidades de Reacción Inmediata (URI):] son centros de atención que facilitan el acceso a la justicia, especialmente en casos urgentes que requieren una respuesta rápida de las autoridades. Operan las 24 horas del día, los 7 días de la semana, y su objetivo es contrarrestar la criminalidad a través de la acción judicial inmediata.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Centro de Atención a Víctimas de abuso sexual - CAIVAS.
+                        p.mb-0 #[b Centro de Atención a Víctimas de abuso sexual - CAIVAS:] son centros de atención e investigación integral a las víctimas de delitos sexuales, que existen en algunos municipios del país y hacen parte de la Fiscalía, y donde también se recibe asesoría y tratamiento psicológico.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -617,7 +621,7 @@
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema1/img21.png', alt='', style='width: 400px').m-auto
-    p.mb-5(data-aos="fade-right") #[b Ante casos de violencia contra la mujer se deben tomar las siguientes acciones:]
+    p.mb-5(data-aos="fade-right") Ante casos de violencia contra la mujer se deben tomar las siguientes acciones:
     .row
       .col-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")(data-aos="zoom-in")
@@ -635,7 +639,7 @@
                 li.d-flex
                   i.fas.fa-circle-check
                   |
-                  p.mb-0 Línea 106 Secretaría Distrital de Salud.
+                  p.mb-0 Línea 195 Secretaría Distrital de Salud.
                 
                 li.d-flex
                   i.fas.fa-circle-check
@@ -674,7 +678,7 @@
                 li.d-flex
                   i.fas.fa-circle-check
                   |
-                  p.mb-0 CAMI (Centro de Atención Médica Inmediata). UPA (Unidad Primaria de Atención).
+                  p.mb-0 CAMI (Centro de Atención Médica Inmediata).
                 li.d-flex
                   i.fas.fa-circle-check
                   |
@@ -794,7 +798,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Línea amiga: 4444 4448 - 3007231123.
+                        p.mb-0 Línea amiga saludable (Medellín): 604-444 4448 - 3007231123.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema1/img27.png', alt='', style='width: 400px').m-auto
@@ -843,17 +847,17 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema1/img8.svg', alt='')
-          .tarjeta.color-acento-botones1.shadow.p-4(x="14%" y="85%" numero="1")
+          .tarjeta.color-acento-botones1.shadow.p-4(x="14%" y="85%" numero="a")
             p.mb-0 Pida una cita con médico general en el centro de salud donde siempre consulta. El motivo de la consulta es: consumo de sustancias psicoactivas.
-          .tarjeta.color-acento-botones1.shadow.p-4(x="8%" y="50%" numero="2")
+          .tarjeta.color-acento-botones1.shadow.p-4(x="8%" y="50%" numero="b")
             p.mb-0 El médico general le entregará una remisión para la atención con el médico especialista, como: psiquiatría, especialista en adicciones o toxicólogo.
-          .tarjeta.color-acento-botones1.shadow.p-4(x="25%" y="17%" numero="3")
+          .tarjeta.color-acento-botones1.shadow.p-4(x="25%" y="17%" numero="c")
             p.mb-0 Gestione con la EPS la autorización para la atención con el médico especialista.
-          .tarjeta.color-acento-botones1.shadow.p-4(x="57%" y="10%" numero="4")
+          .tarjeta.color-acento-botones1.shadow.p-4(x="57%" y="10%" numero="d")
             p.mb-0 La EPS entregará la autorización de servicios. Luego será necesario pedir esta cita en la IPS asignada.
-          .tarjeta.color-acento-botones1.shadow.p-4(x="92%" y="50%" numero="5")
+          .tarjeta.color-acento-botones1.shadow.p-4(x="92%" y="50%" numero="e")
             p.mb-0 En la cita con el especialista, él determinará el tratamiento a seguir, y entregará un documento para que la EPS autorice el servicio que requiera el usuario.
-          .tarjeta.color-acento-botones1.shadow.p-4(x="86%" y="85%" numero="6")
+          .tarjeta.color-acento-botones1.shadow.p-4(x="86%" y="85%" numero="f")
             p.mb-0 Una vez se tenga esta aprobación, el usuario deberá contactar a la IPS para agendar la atención.
     .row.justify-content-center
       .col-lg-8(data-aos="fade-right")

@@ -19,7 +19,7 @@
           #t_2_1
           .titulo-segundo.color-acento-contenido
             h2 2.1 Estilos de vida saludables
-          p.mb-4(data-aos="fade-down") Los estilos de vida pueden guiar a las personas hacia dos direcciones: una de enfermedad, adicciones, violencia, maltrato y muerte, o hacia una de #[b positividad, felicidad, respeto, nutrición adecuada, actividad física y bienestar].
+          p.mb-4(data-aos="fade-down") Los estilos de vida pueden guiar a las personas hacia dos direcciones: una de enfermedad, adicciones, violencia, maltrato y muerte, o hacia una de positividad, felicidad, respeto, nutrición adecuada, actividad física y bienestar.
           .row.justify-content-center
             .col-lg-8(data-aos="zoom-in")
               .row
@@ -165,7 +165,7 @@
                     li.d-flex
                       i.fas.fa-circle-check
                       |
-                      p.mb-0 Patrones de crianza: forma que cada familia levanta a los hijos según valores y conceptos propios.
+                      p.mb-0 #[b Patrones de crianza:] forma que cada familia levanta a los hijos según valores y conceptos propios.
                     li.d-flex
                       i.fas.fa-circle-check
                       |
@@ -177,7 +177,7 @@
                     li.d-flex
                       i.fas.fa-circle-check
                       |
-                      p.mb-0 Rechazo a toda forma de violencia.
+                      p.mb-0 El rechazo a toda forma de violencia.
                     li.d-flex
                       i.fas.fa-circle-check
                       |
@@ -191,7 +191,7 @@
     #t_2_5
     .titulo-segundo.color-acento-contenido
       h2 2.5 Ética del cuidado
-    p.mb-5(data-aos="fade-down") Lo anterior nos lleva a pensar que los seres humanos #[b somos sujetos de cuidado permanente]. Requerimos cuidado materno, #[b cuidado en la familia, en la escuela] para garantizar los mínimos vitales. La ética del cuidado nos invita a hacer de esta práctica una forma de vida, cuidar de otros y preocuparse por su bienestar es una manifestación de solidaridad, de mejores formas de convivencia y sobre todo de prevención. #[b Prevención de violencias, prevención de abusos, prevención de seguridad individual y colectiva]. Desde esta perspectiva, la defensa y garantía de los derechos sería una responsabilidad de todos y para todos.
+    p.mb-5(data-aos="fade-down") Lo anterior nos lleva a pensar que los seres humanos #[b somos sujetos de cuidado permanente]. Requerimos #[b cuidado materno, cuidado en la familia, en la escuela] para garantizar los mínimos vitales. La ética del cuidado nos invita a hacer de esta práctica una forma de vida, cuidar de otros y preocuparse por su bienestar es una manifestación de solidaridad, de mejores formas de convivencia y sobre todo de prevención. #[b Prevención de violencias, prevención de abusos, prevención de seguridad individual y colectiva]. Desde esta perspectiva, la defensa y garantía de los derechos sería una responsabilidad de todos y para todos.
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")
         .p-4.bg-c17
@@ -213,7 +213,7 @@
         .row.h-100.align-items-center
           .col-12
             .p-4
-              p.mb-0 En primera instancia debemos cuidar del cuerpo, como nuestro territorio más cercano, y esto nos lleva a desarrollar acciones y comportamientos de cuidado del cuerpo de los demás. Pero igualmente tenemos que cuidar la mente, que significa equilibrar nuestras pasiones para aplicarlas al desarrollo de un proyecto de vida coherente con nuestra condición humana. Igualmente cuidamos el espíritu, esa dimensión de nuestra vida que nos permite sentirnos parte de realidades abstractas como la humanidad y el universo, pero que en lo cotidiano se traduce en la vivencia de una ética autónoma. Finalmente, cuidamos el intelecto, mediante una actitud que nos permite desarrollar nuestros mejores talentos para ponerlos al servicio de nosotros mismos, de nuestra familia, nuestra comunidad, con una actitud solidaria y altruista. (Alcaldía Mayor de Bogotá, 2013. Orientaciones para la acción en cuidado y autocuidado)
+              p.mb-0 En primera instancia debemos cuidar del cuerpo, como nuestro territorio más cercano, y esto nos lleva a desarrollar acciones y comportamientos de cuidado del cuerpo de los demás. Pero igualmente tenemos que cuidar la mente, que significa equilibrar nuestras pasiones para aplicarlas al desarrollo de un proyecto de vida coherente con nuestra condición humana. Igualmente cuidamos el espíritu, esa dimensión de nuestra vida que nos permite sentirnos parte de realidades abstractas como la humanidad y el universo, pero que en lo cotidiano se traduce en la vivencia de una ética autónoma. Finalmente, cuidamos el intelecto, mediante una actitud que nos permite desarrollar nuestros mejores talentos para ponerlos al servicio de nosotros mismos, de nuestra familia, nuestra comunidad, con una actitud solidaria y altruista. (Alcaldía Mayor de Bogotá, 2013. Orientaciones para la acción en cuidado y autocuidado).
     p.mb-5(data-aos="fade-right") De esta forma, las prácticas de cuidado y autocuidado permitirán mantener una salud mental sana. Solamente quien cuida de sí mismo de forma responsable puede cuidar de otros, del entorno cercano y del medioambiente.
     .row.justify-content-center
       .col-lg-8(data-aos="fade-left")

@@ -38,18 +38,92 @@ export default {
         numero: '1',
         titulo: '¿Dónde y cómo denunciar?',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '1.1',
+            titulo: 'Violencia intrafamiliar',
+            hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Maltrato infantil',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Violencia contra la mujer por razón de género',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo:
+              'Ideación/ conducta suicida, evento en crisis y trastornos mentales',
+            hash: 't_1_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
         titulo: 'Acciones de prevención en salud mental',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Estilos de vida saludables',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Autoestima, amor propio y familia',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo:
+              '¿Cuál es el papel de la familia en el desarrollo del amor propio?',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo:
+              'Aspectos claves para la consolidación del amor propio en la vida',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Ética del cuidado',
+            hash: 't_2_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
         titulo: 'Manejo de estrés y prevención de consumo',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Prevención del consumo de Sustancias Psicoactivas (SPA)',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Guía para la realización del plan de acción personal',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Determinación de metas a corto y mediano plazo',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Identificación de habilidades individuales',
+            hash: 't_3_4',
+          },
+        ],
       },
     ],
     subMenu: [
