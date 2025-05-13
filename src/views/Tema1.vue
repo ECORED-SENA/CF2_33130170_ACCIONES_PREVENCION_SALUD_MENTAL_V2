@@ -303,7 +303,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Centro de Atención a Víctimas de abuso sexual - CAIVAS.
+                        p.mb-0 Centro de Atención a Víctimas de Abuso Sexual - CAIVAS.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -420,7 +420,7 @@
                 li.d-flex
                   i.fas.fa-circle-check
                   |
-                  p.mb-0 Centro de Atención a Víctimas de abuso sexual - CAIVAS.
+                  p.mb-0 Centro de Atención a Víctimas de Abuso Sexual - CAIVAS.
                 li.d-flex
                   i.fas.fa-circle-check
                   |
@@ -554,7 +554,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Centro de Atención a Víctimas de abuso sexual - CAIVAS.
+                        p.mb-0 Centro de Atención a Víctimas de Abuso Sexual - CAIVAS.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -640,11 +640,6 @@
                   i.fas.fa-circle-check
                   |
                   p.mb-0 Línea 195 Secretaría Distrital de Salud.
-                
-                li.d-flex
-                  i.fas.fa-circle-check
-                  |
-                  p.mb-0 Línea 195.
                 li.d-flex
                   i.fas.fa-circle-check
                   |
@@ -652,7 +647,7 @@
                 li.d-flex
                   i.fas.fa-circle-check
                   |
-                  p.mb-0 Centro de Atención a Víctimas de abuso sexual - CAIVAS.
+                  p.mb-0 Centro de Atención a Víctimas de Abuso Sexual - CAIVAS.
                 li.d-flex
                   i.fas.fa-circle-check
                   |
