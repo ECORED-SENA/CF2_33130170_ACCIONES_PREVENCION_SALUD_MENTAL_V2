@@ -346,7 +346,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 #[b Centro de Atención a Víctimas de abuso sexual - CAIVAS:] son centros de atención e investigación integral a las víctimas de delitos sexuales, que existen en algunos municipios del país y hacen parte de la Fiscalía, y donde también se recibe asesoría y tratamiento psicológico.
+                        p.mb-0 #[b Centro de Atención a Víctimas de Abuso Sexual - CAIVAS:] son centros de atención e investigación integral a las víctimas de delitos sexuales, que existen en algunos municipios del país y hacen parte de la Fiscalía, y donde también se recibe asesoría y tratamiento psicológico.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -354,7 +354,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 Unidades de Reacción Inmediata (URI).
+                        p.mb-0 #[b Unidades de Reacción Inmediata (URI):] son centros de atención que facilitan el acceso a la justicia, especialmente en casos urgentes que requieren una respuesta rápida de las autoridades. Operan las 24 horas del día, los 7 días de la semana, y su objetivo es contrarrestar la criminalidad a través de la acción judicial inmediata.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
@@ -597,7 +597,7 @@
                       li.d-flex
                         i.fas.fa-circle-check
                         |
-                        p.mb-0 #[b Centro de Atención a Víctimas de abuso sexual - CAIVAS:] son centros de atención e investigación integral a las víctimas de delitos sexuales, que existen en algunos municipios del país y hacen parte de la Fiscalía, y donde también se recibe asesoría y tratamiento psicológico.
+                        p.mb-0 #[b Centro de Atención a Víctimas de Abuso Sexual - CAIVAS:] son centros de atención e investigación integral a las víctimas de delitos sexuales, que existen en algunos municipios del país y hacen parte de la Fiscalía, y donde también se recibe asesoría y tratamiento psicológico.
                       li.d-flex
                         i.fas.fa-circle-check
                         |
